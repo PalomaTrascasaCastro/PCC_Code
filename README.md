@@ -7,14 +7,18 @@ If you want to share your code with us, please follow these intructions to make 
 
 ## To do:
 1) Add an introductory paragraph using "" "", saying:
-  - What is the code for
+  - What is the code for.
   - How wrote it (in case someone has any question for you).
-2) Comment your code to make it as easy to decipher as possible
-3) Whenever needed, indicate the structure and dimensions of the data, for example: this is a 3-D cube (time,latitude,longitude)
-4) Add tags to your code so people can easily find it in this directory
+  - 
+2) Comment your code to make it as easy to decipher as possible.
+ 
+3) Whenever needed, indicate the structure and dimensions of the data, for example: this is a 3-D cube (time,latitude,longitude).
+
+4) Add tags to your code so people can easily find it in this directory.
 
 
 ## How to upload your code:
+
 The easiest way to upload your file is by clicking on "add file" in the home page of this repository. Upload an ".ipynb" file from your computer and click "commit changes" to finish the upload
 
 ----------------
