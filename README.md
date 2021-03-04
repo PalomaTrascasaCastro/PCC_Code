@@ -5,7 +5,7 @@ at the School of Earth and Environment, University of Leeds.
 
 If you want to share your code with us, please follow these intructions to make it easy to replicate:
 
-# To do:
+## To do:
 1) Add an introductory paragraph using "" "", saying:
   - What is the code for
   - How wrote it (in case someone has any question for you).
@@ -15,6 +15,7 @@ If you want to share your code with us, please follow these intructions to make 
 
 
 ## How to upload your code:
+The easiest way to upload your file is by clicking on "add file" in the home page of this repository. Upload an ".ipynb" file from your computer and click "commit changes" to finish the upload
 
 ----------------
 Thank you very much for contributing to make other's life easier!
