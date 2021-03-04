@@ -6,12 +6,12 @@ at the School of Earth and Environment, University of Leeds.
 If you want to share your code with us, please follow these intructions to make it easy to replicate:
 
 # To do:
-## 1) Add an introductory paragraph using "" "", saying:
+1) Add an introductory paragraph using "" "", saying:
   - What is the code for
   - How wrote it (in case someone has any question for you).
-  - Comment your code to make it as easy to decypher as possible
-  - Whenever needed, indicate the structure and dimensions of the data, for example: this is a 3-D cube (time,latitude,longitude)
-  - Add tags to your code so people can easily find it in this directory
+2) Comment your code to make it as easy to decypher as possible
+3) Whenever needed, indicate the structure and dimensions of the data, for example: this is a 3-D cube (time,latitude,longitude)
+4) Add tags to your code so people can easily find it in this directory
 
 
 ## How to upload your code:
