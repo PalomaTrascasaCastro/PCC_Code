@@ -1,4 +1,4 @@
-# PCC CODE :earth_africa: :earth_americas: :earth_asia:
+# PCC repository :earth_africa: :earth_americas: :earth_asia:
 
 This is a shared code repository created by the Physical Climate Change research group 
 at the School of Earth and Environment, University of Leeds.
