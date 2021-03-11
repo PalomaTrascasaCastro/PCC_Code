@@ -14,7 +14,7 @@ If you want to share your code with us, please follow these intructions to make 
  
 3) Whenever needed, indicate the structure and dimensions of the data, for example: this is a 3-D cube (time,latitude,longitude).
 
-4) Add tags to your code so people can easily find it in this directory.
+4) Provide mock data (2D or 3D random samples) if possible to test the code.
 
 
 ## How to upload your code:
